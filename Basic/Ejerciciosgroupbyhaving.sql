@@ -1,0 +1,17 @@
+--1. muestra la cantidad de domicilios por código postal que existen registrados.
+--2. muestra el nombre de los empleados y la cantidad de personas que tienen a su cargo.
+--3. muestra la nómina que se tiene que pagar agrupando por tipo de empleado.
+--4. muestra el nombre de las aerolineas y la cantidad de aviones que tiene agrupando por el año de fabricación de cada uno de ellos
+--5. muestra el número de clientes que se tienen, agrupandolos por tipo de cliente
+--6. muestra cuentos hombres y cuantas mujeres hay registrados en el sistema.
+--7. muestra el nombre de los vendedores y el número de ventas que han realizado.
+--8. muestra la comisión que ganó cada uno de los vendedores durante el primer trimestre del 2014
+--9. muestra la cantidad de asientos vendidos por vuelo yla cantidad de asientos que falta por vender para completar los asientos disponibles en el avión.
+--10. muestra los vuelos que tengan más de 5 asientos vendidos
+--11. muestra los vuelos cuyas ventas sumen más de 10000 pesos
+--12. muestra a los clientes que han gastado más de 10000 pesos en la compra de vuelos.
+--13. muestra el número de vuelos que tienen o han tenido todos los empleados
+--14. muestra el promedio de edad de los clientes registrados.
+--15. muestra el promedio de meses que los aviones de cada aerolínea deben tener mantenimiento
+--16. muestra la venta mínima de cada uno de los vendedores
+

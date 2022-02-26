@@ -1,0 +1,1 @@
+ALTER AUTHORIZATION ON DATABASE:: Aerolineas TO Sa  /*Permiso a usuario back up. Usuario con el que se este ingresando*/
