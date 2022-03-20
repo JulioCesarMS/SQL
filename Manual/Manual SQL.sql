@@ -1,6 +1,6 @@
 /*Fecha de Clase: 21/04/2018*/
 
-/*Manual del Diplomado de Bases de Datos de 3CT*/
+/*Manual de Bases de Datos*/
 
 /*Cómo crear una Base de Datos*/
 
