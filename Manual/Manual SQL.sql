@@ -49,10 +49,7 @@ insert into libro
 values
 (2,'Amanecer','Stephanie Meyer',399);
 select * from libro;
-insert into empleado
-values
-(2680,'Jonatan Castro Cruz','Castro','Cruz',29,17999.99,'Arquitecto Senior de Soluciones');
-select * from empleado;
+
 
 /****************************************************************************************************************************************/
 
