@@ -154,7 +154,7 @@ create table empleado
 insert into empleado
 (Clave,Nombre,Primer_Ap,Segundo_Ap,Edad,Sueldo,Puesto,Cursos_adicionales)
 values
-(1,'Jonatan','Castro','Cruz',29,17999.99,'Senior Solutions','');
+(1,'Jonatan','C.','C.',29,17999.99,'Senior','');
 select * from empleado;
 drop table empleado;
 create table empleado
@@ -171,7 +171,7 @@ create table empleado
 insert into empleado
 (Clave,Nombre,Primer_Ap,Segundo_Ap,Edad,Sueldo,Puesto,Cursos_adicionales)
 values
-(1,'Jonatan','Castro','Cruz',29,17999.99,'Senior Solutions','');
+(1,'Jonatan','C.','C.',29,17999.99,'Senior','');
 select * from empleado;
 
 /*Llave Primaria Autoincrementable*/
